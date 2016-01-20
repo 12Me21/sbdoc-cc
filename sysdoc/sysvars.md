@@ -29,6 +29,7 @@ Read-only. Slot number in which the last error occurred.
 
 ## FALSE ##
 Read-only. Always 0.
+The constant #FALSE should be used instead.
 
 ## FREEMEM ##
 Read-only. Amount of user memory that is currently free, in bytes.
@@ -73,6 +74,7 @@ Read-only. A time string in the format `HH:MM:SS` representing the current syste
 
 ## TRUE ##
 Read-only. Always 1.
+The constant #TRUE should be used instead.
 
 ## VERSION ##
 Read-only. An integer in the form `&HXXYYZZZZ` telling the current system version.
