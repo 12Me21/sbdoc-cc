@@ -23,4 +23,4 @@ with a number of spaces before it (4 by default).
 Prints `102`.
 
 ## Notes ##
-It is generally recommended to use `?` instead to keep code shorter.
+`?` can be used instead to keep code shorter.
