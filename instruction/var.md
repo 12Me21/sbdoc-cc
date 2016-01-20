@@ -12,3 +12,8 @@ The `DIM` instruction is equivalent.
 `VAR(varname$)`  
 Reference a variable named in the string `varname$`.  
 This instruction is undocumented, and also has its own rules (see notes).
+
+## Examples ##
+`INC VAR("SCORE"),200`  
+Adds 200 to the variable "SCORE".
+
