@@ -14,5 +14,4 @@ This line is a comment and ignored by the precompiler.
 The text after the `PRINT` statment is ignored, creating an inline comment.
 
 ## Notes ##
-`REM` should never be used. Instead, the comment character `'` should be used.
-It can be used any way `REM` can, and even adds syntax highlighting to the comment.
+The comment character `'` can be used instead, and adds syntax highlighting, unlike `REM`
